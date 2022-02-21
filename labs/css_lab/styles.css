@@ -27,3 +27,7 @@ li em {
     color: rebeccapurple;
     font-weight: bold;
 }
+/* LAB: Añade un selector de tipo adjacent sibling combinator para h1 con p */
+h1 + p {
+    font-size: 200%;
+}
